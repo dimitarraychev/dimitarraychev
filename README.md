@@ -21,7 +21,7 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 ## Projects
 
-Here, you'll find a collection of my projects, ranging from small coding exercises to more significant, long-term endeavors. I enjoy tackling a variety of challenges, so you'll see a mix of projects on this page, reflecting my diverse interests and skillset.
+Here, you'll find a collection of my projects:
 
 🎮**Metaverse Explorer Side-Scrolling Game (Vanilla JS)**:
 - https://play-metaverse-explorer.web.app/
@@ -30,7 +30,7 @@ Here, you'll find a collection of my projects, ranging from small coding exercis
 ## Skills
 
 - 👨‍💻 **Programming Languages**: JavaScript, HTML, CSS, and more.
-- 💻**Tools & Technologies**: Node.js, React, Express, SQL, Git, and more.
+- 💻**Tools & Technologies**: Node.js, Git, and more.
 - 🔧**Professional Experience**: IT service support, network engineering, and technician roles.
 - ⚡**Passion Areas**: Blockchain, Web3, and trading.
 
