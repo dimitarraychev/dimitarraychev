@@ -23,7 +23,7 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 Here, you'll find a collection of my projects, ranging from small coding exercises to more significant, long-term endeavors. I enjoy tackling a variety of challenges, so you'll see a mix of projects on this page, reflecting my diverse interests and skillset.
 
-🎮**Metaverse Explorer Side-Scrolling Game**:
+🎮**Metaverse Explorer Side-Scrolling Game (Vanilla JS)**:
 - https://play-metaverse-explorer.web.app/
 - https://play-metaverse-explorer.firebaseapp.com/
 
