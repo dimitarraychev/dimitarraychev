@@ -35,6 +35,8 @@ Tools, Technologies, and Dependencies:
 - JavaScript (Vanilla JS)
 - Firebase for hosting and deployment
 
+---
+
 🌐**TechGrit Demo Website**:
 
 Website demo with integrated user authentication and full suite of CRUD capabilities available to logged in users.
