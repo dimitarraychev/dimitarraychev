@@ -49,7 +49,7 @@ Tools, Technologies, and Dependencies:
 - JavaScript (Vanilla JS)
 - Lit-HTML
 - Page.js
-- Firebase for hosting, deployment, authentication and CRUD operation
+- Firebase for hosting, deployment, authentication and CRUD operations
 
 ## Skills
 
