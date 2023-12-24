@@ -32,8 +32,8 @@ Explore the project here:
 - https://play-metaverse-explorer.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-JavaScript (Vanilla JS)
-Firebase for hosting and deployment
+- JavaScript (Vanilla JS)
+- Firebase for hosting and deployment
 
 🌐**TechGrit Demo Website**:
 
@@ -44,10 +44,10 @@ Explore the project here:
 - https://techgrit.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-JavaScript (Vanilla JS)
-Lit-HTML
-Page.js
-Firebase for hosting, deployment, authentication and CRUD operation
+- JavaScript (Vanilla JS)
+- Lit-HTML
+- Page.js
+- Firebase for hosting, deployment, authentication and CRUD operation
 
 ## Skills
 
