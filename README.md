@@ -35,9 +35,7 @@ Tools, Technologies, and Dependencies:
 - JavaScript (Vanilla JS)
 - Lit-HTML
 - Page.js
-- Firebase for hosting, deployment, authentication and CRUD operations
-
----
+- Firebase hosting, deployment and BaaS
 
 🎮**Metaverse Explorer Side-Scrolling Game**:
 
@@ -49,7 +47,7 @@ Explore the project here:
 
 Tools, Technologies, and Dependencies:
 - JavaScript (Vanilla JS)
-- Firebase for hosting and deployment
+- Firebase hosting and deployment
 
 ## Skills
 
