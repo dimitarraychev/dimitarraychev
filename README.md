@@ -23,31 +23,31 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 Here, you'll find a collection of my projects:
 
-🌐**TechGrit Demo Website**:
+🌐**TechGrit Demo Website**🌐:
 
 Website demo with integrated user authentication and full suite of CRUD capabilities available to logged in users.
 
 Explore the project here:
-- https://techgrit.web.app/
-- https://techgrit.firebaseapp.com/
+- 🔗 https://techgrit.web.app/
+- 🔗 https://techgrit.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-- JavaScript (Vanilla JS)
-- Lit-HTML
-- Page.js
-- Firebase hosting, deployment and BaaS
+- 💻 JavaScript (Vanilla JS)
+- 🔥 Lit-HTML
+- 📄 Page.js
+- ☁️ Firebase hosting, deployment and BaaS
 
-🎮**Metaverse Explorer Side-Scrolling Game**:
+🎮**Metaverse Explorer Side-Scrolling Game**🎮:
 
 This project showcases a captivating gaming experience, created entirely with Vanilla JavaScript.
 
 Explore the project here:
-- https://play-metaverse-explorer.web.app/
-- https://play-metaverse-explorer.firebaseapp.com/
+- 🔗 https://play-metaverse-explorer.web.app/
+- 🔗 https://play-metaverse-explorer.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-- JavaScript (Vanilla JS)
-- Firebase hosting and deployment
+- 💻 JavaScript (Vanilla JS)
+- ☁️ Firebase hosting and deployment
 
 ## Skills
 
