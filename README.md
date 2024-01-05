@@ -23,7 +23,7 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 Here, you'll find a collection of my projects:
 
-💼**3JS Porfolio**💼:
+### 💼3JS Porfolio💼:
 
 Immerse yourself in my interactive portfolio, brought to life by the fusion of Three.js and GSAP in a captivating 3D experience.
 
@@ -37,7 +37,9 @@ Tools, Technologies, and Dependencies:
 - 🚀 GSAP
 - ☁️ Firebase hosting, deployment and BaaS
 
-🌐**TechGrit Demo Website**🌐:
+---
+
+### 🌐TechGrit Demo Website🌐:
 
 Explore a website demo with integrated user authentication and a full suite of CRUD capabilities available to logged in users.
 
@@ -51,7 +53,9 @@ Tools, Technologies, and Dependencies:
 - 📄 Page.js
 - ☁️ Firebase hosting, deployment and BaaS
 
-🎮**Metaverse Explorer Game**🎮:
+---
+
+### 🎮Metaverse Explorer Game🎮:
 
 Dive into a captivating side-scrolling gaming experience, created entirely with Vanilla JavaScript.
 
