@@ -35,7 +35,7 @@ Tools, Technologies, and Dependencies:
 - 💻 JavaScript (Vanilla JS)
 - 🛸 Three.js
 - 🚀 GSAP
-- ☁️ Firebase hosting, deployment and BaaS
+- ☁️ Firebase hosting and deployment
 
 ---
 
