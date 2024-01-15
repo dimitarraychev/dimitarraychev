@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About me
 
-Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript student at SoftUni, with a burning passion for coding. I currently work in an IT service support position, but my journey in the tech world started as a network engineer and technician. In addition to my professional experiences, I have a deep-seated interest in blockchain, Web3, and trading.
+Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript student at SoftUni, with a burning passion for coding. I currently work in an IT Technical Support position, but my journey in the tech world started as an IT Systems Integration Associate and Technician. In addition to my professional experiences, I have a deep-seated interest in blockchain, web3, and trading.
 
 ## Projects
 
