@@ -23,7 +23,7 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 Here, you'll find a collection of my projects:
 
-### 🌐3JS Porfolio🌐:
+### 🌐Three.js Porfolio🌐:
 
 Immerse yourself in my interactive portfolio, brought to life by the fusion of Three.js and GSAP in a captivating 3D experience.
 
