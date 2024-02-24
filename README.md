@@ -86,3 +86,5 @@ I'm always open to collaboration, discussion, and connecting with fellow develop
 - 📭LinkedIn: [Dimitar Raychev](https://linkedin.com/in/dimitaraychev)
 
 I look forward to connecting and sharing my coding adventures with you. Happy coding! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitarraychev&layout=donut&theme=dark)
