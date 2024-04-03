@@ -86,8 +86,8 @@ Tools, Technologies, and Dependencies:
 
 ## Skills
 
-- 👨‍💻 **Programming Languages**: JavaScript, HTML, CSS, and more.
-- 💻**Tools & Technologies**: Node.js, Git, and more.
+- 👨‍💻 **Programming Languages**: TypeScript, JavaScript, HTML, SCSS, CSS
+- 💻**Tools & Technologies**: Angular, Node.js, Express, MongoDB, Mongoose
 - 🔧**Professional Experience**: IT service support, network engineering, and technician roles.
 - ⚡**Passion Areas**: Blockchain, Web3, and trading.
 
