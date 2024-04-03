@@ -28,7 +28,7 @@ Here, you'll find a collection of my projects:
 A full-stack website featuring an Angular front-end and a Node.js and Express back-end integrated with Mongoose. Designed with a responsive layout to ensure optimal display on all device screens.
 
 Explore the project here:
-- 🔗 https://https://dev-buzz.web.app/
+- 🔗 https://dev-buzz.web.app/
 - 🔗 https://dev-buzz.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
