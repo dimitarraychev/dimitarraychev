@@ -23,6 +23,23 @@ Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript studen
 
 Here, you'll find a collection of my projects:
 
+### 🐝DevBuzz Full-Stack Website🐝:
+
+A full-stack website featuring an Angular front-end and a Node.js and Express back-end integrated with Mongoose. Designed with a responsive layout to ensure optimal display on all device screens.
+
+Explore the project here:
+- 🔗 https://https://dev-buzz.web.app/
+- 🔗 https://dev-buzz.firebaseapp.com/
+
+Tools, Technologies, and Dependencies:
+- 💻 Angular, TypeScript, SCSS
+- 📱 Node.js, Express, MongoDB, Mongoose
+- ☁️ Firebase hosting, deployment and file storage for front-end
+- 🕋 Render Web-Service hosting for back-end
+- 🦦 MongoDB Atlas hosting for database
+
+---
+
 ### 🌐Three.js Porfolio🌐:
 
 Immerse yourself in my interactive portfolio, brought to life by the fusion of Three.js and GSAP in a captivating 3D experience.
