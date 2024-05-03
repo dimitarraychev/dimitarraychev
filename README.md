@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About me
 
-Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript student at SoftUni, with a burning passion for coding. I currently work in an IT Technical Support position, but my journey in the tech world started as an IT Systems Integration Associate and Technician. In addition to my professional experiences, I have a deep-seated interest in blockchain, web3, and trading.
+Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript student at SoftUni, with a burning passion for coding. I currently work as an IT Technical Support Agent, but my journey in the tech world started as an IT Infrastructure Installation and Support Specialist and Computer Systems Technician. In addition to my professional experiences, I have a deep-seated interest in blockchain, web3, and trading.
 
 ## Projects
 
@@ -25,7 +25,7 @@ Here, you'll find a collection of my projects:
 
 ### 🐝DevBuzz Full-Stack Website🐝:
 
-A full-stack website featuring an Angular front-end and a Node.js and Express back-end integrated with Mongoose. Designed with a responsive layout to ensure optimal display on all device screens.
+A full-stack website featuring an Angular 16 front-end and a Node.js and Express back-end integrated with a MongoDB/Mongoose database. Designed with a responsive layout to ensure optimal display on all device screens.
 
 Explore the project here:
 - 🔗 https://dev-buzz.web.app/
@@ -37,22 +37,6 @@ Tools, Technologies, and Dependencies:
 - ☁️ Firebase hosting, deployment and file storage for front-end
 - 🕋 Render Web-Service hosting for back-end
 - 🦦 MongoDB Atlas hosting for database
-
----
-
-### 🌐Three.js Porfolio🌐:
-
-Immerse yourself in my interactive portfolio, brought to life by the fusion of Three.js and GSAP in a captivating 3D experience.
-
-Explore the project here:
-- 🔗 https://dimitar-raychev.web.app/
-- 🔗 https://dimitar-raychev.firebaseapp.com/
-
-Tools, Technologies, and Dependencies:
-- 💻 JavaScript (Vanilla JS)
-- 🛸 Three.js
-- 🚀 GSAP
-- ☁️ Firebase hosting and deployment
 
 ---
 
@@ -86,10 +70,10 @@ Tools, Technologies, and Dependencies:
 
 ## Skills
 
-- 👨‍💻 **Programming Languages**: TypeScript, JavaScript, HTML, SCSS, CSS
-- 💻**Tools & Technologies**: Angular, Node.js, Express, MongoDB, Mongoose
-- 🔧**Professional Experience**: IT service support, network engineering, and technician roles.
-- ⚡**Passion Areas**: Blockchain, Web3, and trading.
+- 👨‍💻 **Programming Languages**: TypeScript, JavaScript, HTML, CSS, SCSS;
+- 💻**Tools & Technologies**: Angular, Node.js, Express, MongoDB, Mongoose;
+- 🔧**Professional Experience**: IT Technical Support Agent, Computer Systems Technician, IT Infrastructure Installation and Support Specialist;
+- 🎓**Education**: Software University, University of National and World Economy, National Trade and Banking High School;
 
 ## Repositories
 
