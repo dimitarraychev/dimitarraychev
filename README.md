@@ -32,11 +32,11 @@ Explore the project here:
 - 🔗 https://dev-buzz.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-- 💻 Angular, TypeScript, SCSS
-- 📱 Node.js, Express, MongoDB, Mongoose
-- ☁️ Firebase hosting, deployment and file storage for front-end
-- 🕋 Render Web-Service hosting for back-end
-- 🦦 MongoDB Atlas hosting for database
+- 💻 Angular, TypeScript, SCSS;
+- 📱 Node.js, Express, MongoDB, Mongoose;
+- ☁️ Firebase hosting, deployment and file storage for front-end;
+- 🕋 Render Web-Service hosting for back-end;
+- 🦦 MongoDB Atlas hosting for database;
 
 ---
 
@@ -49,10 +49,10 @@ Explore the project here:
 - 🔗 https://techgrit.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-- 💻 JavaScript (Vanilla JS)
-- 🔥 Lit-HTML
-- 📄 Page.js
-- ☁️ Firebase hosting, deployment and BaaS
+- 💻 JavaScript (Vanilla JS);
+- 🔥 Lit-HTML;
+- 📄 Page.js;
+- ☁️ Firebase hosting, deployment and BaaS;
 
 ---
 
@@ -65,8 +65,8 @@ Explore the project here:
 - 🔗 https://play-metaverse-explorer.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
-- 💻 JavaScript (Vanilla JS)
-- ☁️ Firebase hosting and deployment
+- 💻 JavaScript (Vanilla JS);
+- ☁️ Firebase hosting and deployment;
 
 ## Skills
 
