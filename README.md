@@ -28,8 +28,8 @@ Here, you'll find a collection of my projects:
 A full-stack website featuring an Angular 16 front-end and a Node.js and Express back-end integrated with a MongoDB/Mongoose database. Designed with a responsive layout to ensure optimal display on all device screens.
 
 Explore the project here:
-- 🔗 https://dev-buzz.web.app/
-- 🔗 https://dev-buzz.firebaseapp.com/
+- 🔗 https://devbuzz.web.app/
+- 🔗 https://devbuzz.firebaseapp.com/
 
 Tools, Technologies, and Dependencies:
 - 💻 Angular, TypeScript, SCSS;
