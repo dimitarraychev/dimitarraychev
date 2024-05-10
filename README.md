@@ -26,6 +26,7 @@ Here, you'll find a collection of my projects:
 ### 🐝DevBuzz Full-Stack Website🐝:
 
 A full-stack website featuring an Angular 16 front-end and a Node.js and Express back-end integrated with a MongoDB/Mongoose database. Designed with a responsive layout to ensure optimal display on all device screens.
+
 _Note: It takes 60-90 seconds for the first loading of the website in order for the free Render Web-Service to wake up from sleep mode._
 
 Explore the project here:
