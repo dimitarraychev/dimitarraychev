@@ -62,7 +62,7 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 ---
 
 ### 🕹️ Metaverse Explorer
-*Front-end browser game*
+*Front-end side-scrolling browser game*
 
 🌐 https://play-metaverse-explorer.web.app/ 🔗https://github.com/dimitarraychev/metaverse-explorer-game
 
