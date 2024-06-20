@@ -1,93 +1,76 @@
+# 👋 Hey there, I'm Dimitar Raychev
 
-
-<!--
-**dimitarraychev/dimitarraychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# About me
-
-Welcome to my GitHub repository! My name is Dimitar Raychev, a JavaScript student at SoftUni, with a burning passion for coding. I currently work as an IT Technical Support Agent, but my journey in the tech world started as an IT Infrastructure Installation and Support Specialist and Computer Systems Technician. In addition to my professional experiences, I have a deep-seated interest in blockchain, web3, and trading.
-
-## Projects
-
-Here, you'll find a collection of my projects:
-
-### 🐝DevBuzz Full-Stack Website🐝:
-
-A full-stack website featuring an Angular 16 front-end and a Node.js and Express back-end integrated with a MongoDB/Mongoose database. Designed with a responsive layout to ensure optimal display on all device screens.
-
-_Note: It takes 60-90 seconds for the first loading of the website in order for the free Render Web-Service to wake up from sleep mode._
-
-Explore the project here:
-- 🔗 https://devbuzz.web.app/
-- 🔗 https://devbuzz.firebaseapp.com/
-
-Tools, Technologies, and Dependencies:
-- 💻 Angular, TypeScript, SCSS;
-- 📱 Node.js, Express, MongoDB, Mongoose;
-- ☁️ Firebase hosting, deployment and file storage for front-end;
-- 🕋 Render Web-Service hosting for back-end;
-- 🦦 MongoDB Atlas hosting for database;
-
----
-
-### 🖱️TechGrit Demo Website🖱️:
-
-Explore a website demo with integrated user authentication and a full suite of CRUD capabilities available to logged in users.
-
-Explore the project here:
-- 🔗 https://techgrit.web.app/
-- 🔗 https://techgrit.firebaseapp.com/
-
-Tools, Technologies, and Dependencies:
-- 💻 JavaScript (Vanilla JS);
-- 🔥 Lit-HTML;
-- 📄 Page.js;
-- ☁️ Firebase hosting, deployment and BaaS;
-
----
-
-### 🎮Metaverse Explorer Game🎮:
-
-Dive into a captivating side-scrolling gaming experience, created entirely with Vanilla JavaScript.
-
-Explore the project here:
-- 🔗 https://play-metaverse-explorer.web.app/
-- 🔗 https://play-metaverse-explorer.firebaseapp.com/
-
-Tools, Technologies, and Dependencies:
-- 💻 JavaScript (Vanilla JS);
-- ☁️ Firebase hosting and deployment;
-
-## Skills
-
-- 👨‍💻 **Programming Languages**: TypeScript, JavaScript, HTML, CSS, SCSS;
-- 💻**Tools & Technologies**: Angular, Node.js, Express, MongoDB, Mongoose;
-- 🔧**Professional Experience**: IT Technical Support Agent, Computer Systems Technician, IT Infrastructure Installation and Support Specialist;
-- 🎓**Education**: Software University, University of National and World Economy, National Trade and Banking High School;
-
-## Repositories
-
-Feel free to explore my repositories, where you'll find code, experiments, and projects that reflect my learning journey. Please respect the licensing and usage terms for each project.
-
-## Contact
-
-I'm always open to collaboration, discussion, and connecting with fellow developers. If you'd like to get in touch, feel free to reach out through any of the following channels:
+🎓 Having successfully completed the JavaScript Learning Path at SoftUni, I am enthusiastic about finding a role where I can apply my knowledge, grow and contribute to significant projects.  
+🛠️ Previous experience as IT Technical Support Agent, Network Systems Technician & IT Infrastructure Support Associate.  
+👨🏻‍💻 My personal interest areas include but are not limited to web3, cryptocurrency and trading.
 
 - ✉️Email: draytchev@gmail.com
 - 📭LinkedIn: [Dimitar Raychev](https://linkedin.com/in/dimitaraychev)
 
-I look forward to connecting and sharing my coding adventures with you. Happy coding! 🚀
+## 💻 Technologies and tools:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📂 Projects
+
+### 🧇 DevBuzz
+*Full-stack social post-sharing platform*
+
+🌐 https://devbuzz.web.app/ 🔗https://github.com/dimitarraychev/devbuzz-fullstack
+
+_Note: It takes 60-90 seconds to initially load the website in order for the free Render Web-Service to wake up from sleep mode._
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=angular,typescript,sass,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+
+---
+
+### 📸 Blendr
+*Front-end + BaaS social media photo application*
+
+🔗https://github.com/dimitarraychev/blendr
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,tailwind,appwrite,vite)](https://skillicons.dev)
+
+---
+
+### 💠 TechGrit
+*Front-end + BaaS news-sharing platform*
+
+🌐 https://techgrit.web.app/ 🔗https://github.com/dimitarraychev/techgrit-demo-website
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=javascript,lit,firebase)](https://skillicons.dev)
+
+---
+
+### 🕹️ Metaverse Explorer
+*Front-end browser game*
+
+🌐 https://play-metaverse-explorer.web.app/ 🔗https://github.com/dimitarraychev/metaverse-explorer-game
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=javascript,firebase)](https://skillicons.dev)
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitarraychev&layout=donut&theme=dark)
