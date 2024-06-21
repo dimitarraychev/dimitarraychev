@@ -34,7 +34,7 @@
 
 🌐 https://devbuzz.web.app/ 🔗https://github.com/dimitarraychev/devbuzz-fullstack
 
-_Note: It takes 60-90 seconds to initially load the website in order for the free Render Web-Service to wake up from sleep mode._
+_Note: It takes 60-90 seconds to initially load the website in order for the free Render Web Service to wake up from sleep mode._
 
 **Tools, Technologies, and Dependencies:**  
 [![Tech Stack](https://skillicons.dev/icons?i=angular,typescript,javascript,sass,nodejs,express,mongodb,firebase)](https://skillicons.dev)
