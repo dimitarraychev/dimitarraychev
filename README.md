@@ -48,7 +48,7 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 🌐 https://techgrit.web.app/ 🔗https://github.com/dimitarraychev/techgrit-demo-website
 
 **Tools, Technologies, and Dependencies:**  
-[![Tech Stack](https://skillicons.dev/icons?i=javascript,lit,firebase)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=javascript,html,css,lit,firebase)](https://skillicons.dev)
 
 ---
 
@@ -58,7 +58,7 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 🌐 https://play-metaverse-explorer.web.app/ 🔗https://github.com/dimitarraychev/metaverse-explorer-game
 
 **Tools, Technologies, and Dependencies:**  
-[![Tech Stack](https://skillicons.dev/icons?i=javascript,firebase)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=javascript,html,css,firebase)](https://skillicons.dev)
 
 ---
 
