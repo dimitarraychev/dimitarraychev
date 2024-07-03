@@ -42,16 +42,6 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 
 ---
 
-### 📸 Blendr
-*Front-end + BaaS social media photo application*
-
-🔗https://github.com/dimitarraychev/blendr
-
-**Tools, Technologies, and Dependencies:**  
-[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,tailwind,appwrite,vite)](https://skillicons.dev)
-
----
-
 ### 💠 TechGrit
 *Front-end + BaaS news-sharing platform*
 
