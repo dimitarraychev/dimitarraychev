@@ -30,6 +30,16 @@
 
 ## 📂 Projects
 
+### 💰 CoinFol.io
+*Front-end + BaaS cryptocurrency & portfolio tracking platform*
+
+🌐 https://coinfol-io.web.app/ 🔗https://github.com/dimitarraychev/coinfolio
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=react,js,html,css,vite,firebase)](https://skillicons.dev)
+
+---
+
 ### 🧇 DevBuzz
 *Full-stack social post-sharing platform*
 
