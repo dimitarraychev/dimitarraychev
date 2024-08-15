@@ -4,7 +4,7 @@
 🛠️ Currently on an internship as a Front-end Developer and have previous experience in diverse IT roles, including Technical Support, Network Systems Technician, and Infrastructure Support.  
 👨🏻‍💻 My personal interest areas include but are not limited to web3, cryptocurrency and trading.
 
-- 🌐Porfolio: https://draychev.web.app/
+- 🌐Portfolio: https://draychev.web.app/
 - ✉️Email: draytchev@gmail.comv
 - 📭LinkedIn: [Dimitar Raychev](https://linkedin.com/in/dimitaraychev)
 
