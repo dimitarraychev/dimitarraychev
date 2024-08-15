@@ -5,7 +5,7 @@
 👨🏻‍💻 My personal interest areas include but are not limited to web3, cryptocurrency and trading.
 
 - 🌐Portfolio: https://draychev.web.app/
-- ✉️Email: draytchev@gmail.comv
+- ✉️Email: draytchev@gmail.com
 - 📭LinkedIn: [Dimitar Raychev](https://linkedin.com/in/dimitaraychev)
 
 ## 💻 Technologies and tools:
