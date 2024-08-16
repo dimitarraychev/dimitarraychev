@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Dimitar Raychev
 
-🎓 Having almost completed the Software Engineering program at SoftUni with JavaScript, I am enthusiastic about finding a role where I can apply my knowledge, grow and contribute to significant projects.  
-🛠️ Currently on an internship as a Front-end Developer and have previous experience in diverse IT roles, including Technical Support, Network Systems Technician, and Infrastructure Support.  
+🎓 With a strong foundation in Software Engineering from SoftUni, focused on JavaScript and TypeScript, I'm dedicated to applying my skills and contributing to innovative projects. 
+🛠️ Having finished an internship as a Front-end Developer, I also bring experience from various IT roles, such as Technical Support, Network Systems Technician, and Infrastructure Support.
 👨🏻‍💻 My personal interest areas include but are not limited to web3, cryptocurrency and trading.
 
 - 🌐Portfolio: https://draychev.web.app/
