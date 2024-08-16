@@ -72,4 +72,14 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 
 ---
 
+### 🧩 Jira Amplifier
+*Chrome extension for Atlassian Jira productivity*
+
+🔗https://github.com/dimitarraychev/jira-amplifier
+
+**Tools, Technologies, and Dependencies:**  
+[![Tech Stack](https://skillicons.dev/icons?i=typescript,html,css)](https://skillicons.dev)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitarraychev&layout=donut&theme=dark)
