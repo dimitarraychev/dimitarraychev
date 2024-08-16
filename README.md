@@ -78,7 +78,7 @@ _Note: It takes 60-90 seconds to initially load the website in order for the fre
 🔗https://github.com/dimitarraychev/jira-amplifier
 
 **Tools, Technologies, and Dependencies:**  
-[![Tech Stack](https://skillicons.dev/icons?i=typescript,html,css)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,html,css,webpack,vite)](https://skillicons.dev)
 
 ---
 
