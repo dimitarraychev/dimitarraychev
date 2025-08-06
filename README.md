@@ -1,8 +1,4 @@
-# 👋 Hey there, I'm Dimitar Raychev
-
-🎓 With a strong foundation in Software Engineering from SoftUni, focused on **JavaScript** and **TypeScript**, I'm dedicated to applying my skills and contributing to innovative projects.    
-🛠️ Having finished an internship as a **Front-end Developer**, I also bring experience from various IT roles, such as **Technical Support** and Smart Systems Technician.    
-👨🏻‍💻 My personal interest areas include but are not limited to web3, cryptocurrency and trading.
+# Dimitar Raychev
 
 - 🌐Portfolio: https://draychev.web.app/
 - ✉️Email: draytchev@gmail.com
