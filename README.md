@@ -23,7 +23,7 @@ dimitar@work:~$ neofetch
 
 ## `~/work`
 
-I write the software and run what it runs on.
+I write the software and the infrastructure it runs on.
 
 - **Development:** front-end, back-end and business logic, shipped to real users
 - **Administration:** VMs, databases and the self-hosted services around them in the work environment
@@ -39,29 +39,6 @@ I write the software and run what it runs on.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </p>
-
-## `~/web`
-
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,tailwind,vite,threejs&perline=10" alt="Front-end"><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,npm,git,figma,postman,vscode&perline=10" alt="Back-end and tools">
-
-<sub>Also: Mocha · JWT · Render</sub>
-
-<details>
-<summary><b>Websites and apps I've built</b></summary>
-<br>
-
-| Project | Description | Links |
-|---|---|---|
-| **CoinFol.io** | Cryptocurrency and portfolio tracker | [Live](https://coinfol-io.web.app/) · [Code](https://github.com/dimitarraychev/coinfolio) |
-| **DevBuzz** | Full-stack social post-sharing platform | [Live](https://devbuzz.web.app/) · [Code](https://github.com/dimitarraychev/devbuzz-fullstack) |
-| **TechGrit** | News-sharing platform | [Live](https://techgrit.web.app/) · [Code](https://github.com/dimitarraychev/techgrit-demo-website) |
-| **Metaverse Explorer** | Side-scrolling browser game | [Play](https://play-metaverse-explorer.web.app/) · [Code](https://github.com/dimitarraychev/metaverse-explorer-game) |
-| **Jira Amplifier** | Browser extension for Jira productivity | [Code](https://github.com/dimitarraychev/jira-amplifier) |
-
-<sub>DevBuzz runs on a free Render service, so the first load can take 60–90 seconds.</sub>
-
-</details>
 
 ## `~/homelab`
 
@@ -92,7 +69,7 @@ I write the software and run what it runs on.
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML">
 </p>
 
-> **`SLA`** &nbsp;The whole rack is my family's *"home production"* environment, not just the media stack. Uptime target: 99.9%. Work users file tickets; family files complaints, verbally, usually mid-movie, and the on-call engineer (me) has no escalation path.
+> **`SLA`** &nbsp;The whole rack is my family's *"home production"* environment. Uptime target: 100% (yes, non-negotiable). Work users file tickets; family files complaints, verbally. The on-call engineer (who also bought the hardware) has no escalation path.
 
 ## `~/projects`
 
@@ -129,6 +106,29 @@ If it can be improved, measured or automated, I'll build something for it.
 - **Homelab:** my own 3D-printed server rack, plus mounts and brackets for drives, switch and mini PCs
 - **Custom bodies and attachments:** enclosures, mounts and add-ons designed to fit my gear exactly
 - **Tinkering:** 3D modelling and printing, and whatever else is on the bench this week
+
+## `~/web`
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,tailwind,vite,threejs&perline=10" alt="Front-end"><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,npm,git,figma,postman,vscode&perline=10" alt="Back-end and tools">
+
+<sub>Also: Mocha · JWT · Render</sub>
+
+<details>
+<summary><b>Early projects</b> <sub>(built while studying, kept as examples)</sub></summary>
+<br>
+
+| Project | Description | Links |
+|---|---|---|
+| **CoinFol.io** | Cryptocurrency and portfolio tracker | [Live](https://coinfol-io.web.app/) · [Code](https://github.com/dimitarraychev/coinfolio) |
+| **DevBuzz** | Full-stack social post-sharing platform | [Live](https://devbuzz.web.app/) · [Code](https://github.com/dimitarraychev/devbuzz-fullstack) |
+| **TechGrit** | News-sharing platform | [Live](https://techgrit.web.app/) · [Code](https://github.com/dimitarraychev/techgrit-demo-website) |
+| **Metaverse Explorer** | Side-scrolling browser game | [Play](https://play-metaverse-explorer.web.app/) · [Code](https://github.com/dimitarraychev/metaverse-explorer-game) |
+| **Jira Amplifier** | Browser extension for Jira productivity | [Code](https://github.com/dimitarraychev/jira-amplifier) |
+
+<sub>These predate my current work and are not actively maintained. DevBuzz runs on a free Render service, so the first load can take 60–90 seconds.</sub>
+
+</details>
 
 <div align="center">
 
