@@ -80,6 +80,7 @@ I write the software and the infrastructure it runs on.
 | [`action-pill-card`](https://github.com/dimitarraychev/action-pill-card) | Glass-style Bubble/Mushroom button card, plain button or state-driven toggle |
 | [`window-status-card`](https://github.com/dimitarraychev/window-status-card) | Window and opening status at a glance |
 | [`ac-control-card`](https://github.com/dimitarraychev/ac-control-card) | Air conditioner control card |
+| [`media-control-card`](https://github.com/dimitarraychev/media-control-card) | Media player control card |
 
 ### 🔌 Home Assistant: integration
 | Repo | Description |
