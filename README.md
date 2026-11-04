@@ -11,13 +11,12 @@
 ```console
 dimitar@work:~$ neofetch
  ┌───────────────────────────────────────────────────────────────────┐
-  role ........ Full-stack developer & DevOps engineer
-  builds ...... web apps, APIs, business logic, databases
-  operates .... VMs, databases and self-hosted services in production
+  role ........ Systems & Software Engineer
+  builds ...... End-to-end web apps, APIs, business logic, databases
+  operates .... Containers, databases and self-hosted services
   work stack .. Authentik · Traefik · Docker · PostgreSQL · SQL
   home lab .... Proxmox cluster · Home Assistant · Nextcloud · Immich
-  users ....... customers and colleagues at work, family at home
-  philosophy .. local control first, cloud last
+  philosophy .. Local-first infrastructure & self-sovereignty
  └───────────────────────────────────────────────────────────────────┘
 ```
 
